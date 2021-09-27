@@ -1,4 +1,6 @@
-### Hi there 👋
+### hi
+### i don't think you're meant to be here
+### theres nothing here for you
 
 <!--
 **sans-undertae/sans-undertae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
