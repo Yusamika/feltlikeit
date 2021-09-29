@@ -1,11 +1,11 @@
 <h1 align="center">hi im antony padella</h1>
-<h3 align="center">i do stuff sometimes<br>dm me if you need to, griffo#1234</h3>
+<h3 align="center">i do stuff sometimes<br>dm me if you need to</h3>
 
 - I’m currently working on [Decaying Winter Cheats](https://github.com/sans-undertae/Decaying-Winter)
 
 - I’m currently learning **Lua, HTML, CSS, and JavaScript.**
 
-- How to reach me **antonypadella@gmail.com**
+- Reach me at **antonypadella@gmail.com**, or **griffo#1234**
 
 
 <h3 align="left">Languages and Tools:</h3>
