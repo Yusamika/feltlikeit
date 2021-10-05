@@ -1,7 +1,7 @@
 <h1 align="center">hi im antony padella</h1>
 <h3 align="center">i do stuff sometimes<br>dm me if you need to</h3>
 
-- I’m currently working on [Decaying Winter Cheats](https://github.com/sans-undertae/Decaying-Winter)
+- I’m currently not working on anything
 
 - I’m currently learning **Lua, HTML, CSS, and JavaScript.**
 
