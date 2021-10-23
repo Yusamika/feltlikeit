@@ -5,7 +5,7 @@
 
 - I’m currently learning **Lua, HTML, CSS, and JavaScript.**
 
-- Reach me at **antonypadella@gmail.com**, or **griffo#\*\*\*\***
+- Reach me at **antonypadella@gmail.com**, or **griffo!!!#3816**
 
 
 <h3>Languages and Tools:</h3>
