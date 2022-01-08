@@ -3,12 +3,17 @@
 
 - I’m currently working on [**my website**](https://sans-undertae.github.io/).
 
-- I’m currently learning **Lua, HTML, CSS, and JavaScript.**
+- I’m currently learning **C#**, **Lua**, **HTML**, **CSS**, and **JavaScript**.
 
-- Reach me at **antonypadella@gmail.com**, or **griffo!!!#3816**
+- Reach me at **antonypadella@gmail.com**, or **smelly jogn#3816**
 
 
 <h3>Languages and Tools:</h3>
-<p> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/sans-undertae/sans-undertae/blob/main/git.png?raw=true" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://github.com/sans-undertae/sans-undertae/blob/main/image.png?raw=true" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.lua.org" target="_blank"> <img src="https://github.com/sans-undertae/sans-undertae/blob/main/lua_logo.png?raw=true" alt="lua" width="40" height="40"/> </a> </p>
+<p> 
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+  <a href="https://www.lua.org" target="_blank"> <img src="https://github.com/sans-undertae/sans-undertae/blob/main/lua_logo.png?raw=true" alt="lua" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org" target="_blank"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="lua" width="40" height="40"/> </a> 
+</p>
 
-<h3>have a good day</h4>
+<h5>have a good day</h5>
