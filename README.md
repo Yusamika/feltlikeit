@@ -1,11 +1,11 @@
 <h1 align="center">hi im antony padella</h1>
 <h3 align="center">i do stuff sometimes<br>dm me if you need to</h3>
 
-[![sans-undertae's GitHub stats](https://github-readme-stats.vercel.app/api?username=sans-undertae&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![hi](https://github-readme-stats.vercel.app/api?username=sans-undertae&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
 
 - I’m currently working on [**my website**](https://sans-undertae.github.io/).
 
-- I’m primarily learning **C#**, **Lua**, **HTML**, **CSS**, and **JavaScript**.
+- I’m primarily learning **C#**, **Lua**, **HTML**, **CSS**, and **Java**.
 
 - Reach me at **antonypadella@gmail.com**, or **smelly jogn#3816**
 
