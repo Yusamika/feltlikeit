@@ -3,7 +3,7 @@
 
 ![hi](https://github-readme-stats.vercel.app/api?username=sans-undertae&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
 
-- I’m currently working on [**my website**](https://sans-undertae.github.io/).
+- I’m currently working on [**my website**](https://sans-undertae.github.io/).(also some of my private repositories)
 
 - I’m primarily learning **C#**, **Lua**, **HTML**, **CSS**, and **Java**.
 
