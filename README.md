@@ -9,7 +9,7 @@
 
 - Reach me at **antonypadella@gmail.com**, or [**smelly jogn#3816**](https://discord.com/users/738990436907090020)
 
-<h3>Languages and Tools:</h3>
+<h3>Languages I Know:</h3>
 <p>
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
