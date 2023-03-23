@@ -1,7 +1,7 @@
-<h1 align="center">hi im antony padella</h1>
+<h1 align="center">hi im Andrømeda</h1>
 <h3 align="center">i do stuff sometimes<br>dm me if you need to</h3>
 
-[![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=sans-undertae&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=feltlikeit&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - I’m currently working on [**my website**](https://trolltown.tk/), and a few of my private repositories.
 
@@ -13,7 +13,7 @@
 <p>
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-  <a href="https://www.lua.org" target="_blank"> <img src="https://github.com/sans-undertae/sans-undertae/blob/main/lua_logo.png?raw=true" alt="lua" width="40" height="40"/> </a> 
+  <a href="https://www.lua.org" target="_blank"> <img src="https://github.com/feltlikeit/feltlikeit/blob/main/lua_logo.png?raw=true" alt="lua" width="40" height="40"/> </a> 
   <a href="https://www.w3.org" target="_blank"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="lua" width="40" height="40"/> </a> 
 </p>
 <br>
