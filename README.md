@@ -3,11 +3,11 @@
 
 [![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=feltlikeit&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- I’m currently working on [**my website**](https://trolltown.tk/), and a few of my private repositories.
+- I’m currently working on [**my website**](https://trollstars.me/), and a few of my private repositories.
 
 - I’m primarily learning **C#**, **Lua**, **HTML**, **CSS**, and **Java**.
 
-- Reach me at **antonypadella@gmail.com**, or [**smelly jogn#3816**](https://discord.com/users/738990436907090020)
+- Reach me at **antonypadella@gmail.com**, or [**Andrømeda#3816**](https://discord.com/users/738990436907090020)
 
 <h3>Languages I Know:</h3>
 <p>
