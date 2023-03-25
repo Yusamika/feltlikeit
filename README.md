@@ -1,8 +1,6 @@
 <h1 align="center">hi im Andrømeda</h1>
 <h3 align="center">i do stuff sometimes<br>dm me if you need to</h3>
 
-[![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=feltlikeit&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 - I’m currently working on [**my website**](https://trollstars.me/), and a few of my private repositories.
 
 - I’m primarily learning **C#**, **Lua**, **HTML**, **CSS**, and **Java**.
