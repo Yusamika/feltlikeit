@@ -1,11 +1,11 @@
-<h1 align="center">hi im Andrømeda</h1>
+<h1 align="center">hi im Yusamika</h1>
 <h3 align="center">i do stuff sometimes<br>dm me if you need to</h3>
 
 - I’m currently working on [**my website**](https://feltlikeit.tech/), and a few of my private repositories.
 
 - I’m primarily learning **C#**, **Lua**, **HTML**, **CSS**, and **Java**.
 
-- Reach me at **yusamika@proton.me**, or [**Andrømeda#0001**](https://discord.com/users/738990436907090020)
+- Reach me at **yusamika@proton.me**, or [**Yusa#2069**](https://discord.com/users/738990436907090020)
 
 <h3>Languages I Know:</h3>
 <p>
